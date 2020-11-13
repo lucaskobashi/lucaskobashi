@@ -1,13 +1,17 @@
-### Hi there 👋
+# Lucas Kobashi<br>
+Sophomore BSc. Computer Science<br>
+Mathematics & Physics Minor<br>
+University of Saskatchewan<br>
+lucas.kobashi@cs.usask.ca<br>
 
-- 🔭 I’m currently working on ...
+- Fall, 2020
 
-CMPT 214
-CMPT 260
-CMPT 270
-PHYS 252
-STAT 245
-MATH 225
+  CMPT 214<br>
+CMPT 260<br>
+CMPT 270<br>
+PHYS 252<br>
+STAT 245<br>
+MATH 225<br>
 
 <!--
 **lucaskobashi/lucaskobashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
